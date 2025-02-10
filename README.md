@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a passionate software engineer with a strong background <br>in designing and developing efficient software solutions. <br>With experience in multiple programming languages and frameworks,<br>I am skilled in creating scalable, reliable, and user-friendly applications.<br>My goal is to contribute to innovative projects that have a meaningful <br>impact on users and businesses.
+I am a passionate software developer with a strong background <br>in designing and developing efficient software solutions. <br>With experience in multiple programming languages and frameworks,<br>I am skilled in creating scalable, reliable, and user-friendly applications.<br>My goal is to contribute to innovative projects that have a meaningful <br>impact on users and businesses.
 
 
 ## 🌐 Socials:
